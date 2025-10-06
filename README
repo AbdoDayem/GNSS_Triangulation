@@ -1,0 +1,8 @@
+# GNSS Positioning
+
+Python Code for triangulating and positioning a GNSS reciever via raw satellite signals.
+
+The method is largely an adaptation of the following MATLAB code:
+https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/
+
+Created for use in the University of Alabama's Research Experience for Undergraduates By the Department of Computer Science and Alabama Transportation Institute.
