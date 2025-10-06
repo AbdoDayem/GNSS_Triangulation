@@ -1,4 +1,4 @@
-#GNSS Triangulation
+# GNSS Triangulation
 
 Python Code for triangulating and positioning a GNSS reciever via raw satellite signals.
 
